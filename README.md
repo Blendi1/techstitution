@@ -1,2 +1,2 @@
 The idea behind #Techstitution:
- -Working together 
+ -Working together with flask 
